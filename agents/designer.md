@@ -41,3 +41,18 @@ User flows, screen specs, design system doc, UX review notes — saved to the wo
 - No vague "clean and modern" descriptions — be precise
 - Flag open questions explicitly
 - When done, output a brief summary of design decisions made
+
+## Approval Gate (mandatory)
+All output must be reviewed and approved by BAIcan before it is considered done.
+
+When you finish writing your files, send a completion summary to BAIcan that includes:
+1. What files were written and where
+2. Key design decisions made (with rationale)
+3. Any open questions or trade-offs that need a call
+4. Anything the Coder needs to know upfront
+
+BAIcan will review your output, provide feedback, and either:
+- **Approve** → work is done, Coder can proceed
+- **Request changes** → specific revisions required before approval
+
+Do not consider the task complete until BAIcan explicitly approves. If changes are requested, revise the files and resubmit for review.

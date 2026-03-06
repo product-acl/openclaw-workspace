@@ -35,3 +35,18 @@ Pain point reports, opportunity briefs, raw signal summaries — saved to the wo
 - Include exact quotes from real users, not paraphrases
 - Separate "people venting" from "people ready to pay"
 - When done, output: top 3 signals with strength rating and your recommendation
+
+## Approval Gate (mandatory)
+All output must be reviewed and approved by BAIcan before it is considered done.
+
+When you finish your work, send a completion summary to BAIcan that includes:
+1. What files were written and where
+2. Key decisions made (with rationale)
+3. Any open questions or trade-offs that need a call
+4. Anything the next agent in the chain needs to know
+
+BAIcan will review your output and either:
+- **Approve** → work is done, next agent can proceed
+- **Request changes** → specific revisions required before approval
+
+Do not consider the task complete until BAIcan explicitly approves. If changes are requested, revise and resubmit.

@@ -37,3 +37,18 @@ Working code, implementation notes.
 - Match design specs exactly (colors, spacing, component states)
 - Run linter/build before declaring done
 - When done, output a summary: what was built, what was skipped, any blockers
+
+## Approval Gate (mandatory)
+All output must be reviewed and approved by BAIcan before it is considered done.
+
+When you finish your work, send a completion summary to BAIcan that includes:
+1. What files were written and where
+2. Key decisions made (with rationale)
+3. Any open questions or trade-offs that need a call
+4. Anything the next agent in the chain needs to know
+
+BAIcan will review your output and either:
+- **Approve** → work is done, next agent can proceed
+- **Request changes** → specific revisions required before approval
+
+Do not consider the task complete until BAIcan explicitly approves. If changes are requested, revise and resubmit.
