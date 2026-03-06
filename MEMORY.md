@@ -70,7 +70,7 @@ Full details in `TEAM.md`. Summary:
 - BAIcan = CPO/CTO (me)
 - Engineering: Architect, Coder, Reviewer, DevOps
 - Product: Scout, PM, Designer, Product Marketer, Growth, Analyst
-- This week's active agents: PM, Designer, Architect, Coder, Reviewer
+- This week's active agents: PM, Designer, Architect, Coder, Tester, Reviewer
 
 ---
 
@@ -80,3 +80,18 @@ Full details in `TEAM.md`. Summary:
 - 2026-03-06: Monetization = one-time IAP, no subscription
 - 2026-03-06: Store deployments via EAS CLI (Expo), DevOps runs autonomously post Leo setup
 - 2026-03-06: Growth must draft-then-approve before using message tool (no auto-posting)
+- 2026-03-06: App name = **SpinUp**
+- 2026-03-06: PM finished PRD → `products/party-couples-game/PRD.md`
+- 2026-03-06: Designer finished design system → `products/party-couples-game/design-system.md` + `screens/`
+- 2026-03-06: Architect finished tech spec → `products/party-couples-game/tech-spec.md`
+- 2026-03-06: Coder not yet started — waiting on Leo's go-ahead
+- 2026-03-06: Identified memory loss bug (sessions not writing to daily log mid-session) — fix = sub-agents write to memory + ping Leo on Telegram when done
+- 2026-03-06: Model policy updated — Architect/PM/Analyst → R1; Scout/PMM/Growth → V3; Designer/Tester/DevOps → Haiku; all 11 agents now standalone in openclaw.json with own workspaces
+- 2026-03-06: Model policy updated — Coder → DeepSeek V3 (`deepseek/deepseek-chat`), Reviewer → Sonnet, BAIcan → Sonnet, everyone else → Haiku
+- 2026-03-06: **Marketing foundation complete** — Product Marketer created positioning doc, app store listing, and visual brief in `/home/ubuntu/.openclaw/workspace/products/party-couples-game/marketing/`. Positioning angle: "Two games in one. Party or couples. No subscription." App Store headline: "SpinUp: Party & Couples Game". Visual brief includes app icon concepts and 6 screenshot layouts.
+
+---
+
+## Process Fixes (Active)
+- Sub-agents must: (1) append summary to `memory/YYYY-MM-DD.md` when done, (2) send Leo a Telegram message via `message` tool on completion
+- I must update MEMORY.md with key decisions during sessions, not just at end

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "couples-fs-001",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Romantic finale special 1 (memory_challenge): A special romantic challenge for the finale.",
+    "tier": "romantic",
+    "isLocked": false,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Romantic finale 1"
+  },
+  {
+    "id": "couples-fs-002",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Romantic finale special 2 (spin_the_scenario): A special romantic challenge for the finale.",
+    "tier": "romantic",
+    "isLocked": false,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Romantic finale 2"
+  },
+  {
+    "id": "couples-fs-003",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Romantic finale special 3 (dare_duel): A special romantic challenge for the finale.",
+    "tier": "romantic",
+    "isLocked": false,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Romantic finale 3"
+  },
+  {
+    "id": "couples-fs-004",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Romantic finale special 4 (memory_challenge): A special romantic challenge for the finale.",
+    "tier": "romantic",
+    "isLocked": false,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Romantic finale 4"
+  },
+  {
+    "id": "couples-fs-005",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Romantic finale special 5 (spin_the_scenario): A special romantic challenge for the finale.",
+    "tier": "romantic",
+    "isLocked": false,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Romantic finale 5"
+  },
+  {
+    "id": "couples-fs-006",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 6 (dare_duel): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 6"
+  },
+  {
+    "id": "couples-fs-007",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 7 (memory_challenge): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 7"
+  },
+  {
+    "id": "couples-fs-008",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 8 (spin_the_scenario): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 8"
+  },
+  {
+    "id": "couples-fs-009",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 9 (dare_duel): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 9"
+  },
+  {
+    "id": "couples-fs-010",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 10 (memory_challenge): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 10"
+  },
+  {
+    "id": "couples-fs-011",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 11 (spin_the_scenario): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 11"
+  },
+  {
+    "id": "couples-fs-012",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 12 (dare_duel): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 12"
+  },
+  {
+    "id": "couples-fs-013",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Flirty finale special 13 (memory_challenge): A special flirty challenge for the finale.",
+    "tier": "flirty",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Flirty finale 13"
+  },
+  {
+    "id": "couples-fs-014",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 14 (spin_the_scenario): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 14"
+  },
+  {
+    "id": "couples-fs-015",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 15 (dare_duel): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 15"
+  },
+  {
+    "id": "couples-fs-016",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 16 (memory_challenge): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 16"
+  },
+  {
+    "id": "couples-fs-017",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 17 (spin_the_scenario): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 17"
+  },
+  {
+    "id": "couples-fs-018",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 18 (dare_duel): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 18"
+  },
+  {
+    "id": "couples-fs-019",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 19 (memory_challenge): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 19"
+  },
+  {
+    "id": "couples-fs-020",
+    "mode": "couples",
+    "type": "finale_special",
+    "text": "Spicy finale special 20 (spin_the_scenario): A special spicy challenge for the finale.",
+    "tier": "spicy",
+    "isLocked": true,
+    "phase": "finale",
+    "pointValue": 4,
+    "shortLabel": "Spicy finale 20"
+  }
+]

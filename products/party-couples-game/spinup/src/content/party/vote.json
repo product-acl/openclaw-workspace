@@ -1,0 +1,322 @@
+[
+  {
+    "id": "party-vote-001",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 1: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 1: Who is most likely to...? Winner does 5 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 1"
+  },
+  {
+    "id": "party-vote-002",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 2: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 2: Who is most likely to...? Winner does 10 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Vote 2"
+  },
+  {
+    "id": "party-vote-003",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 3: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 3: Who is most likely to...? Winner does 15 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 3"
+  },
+  {
+    "id": "party-vote-004",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 4: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 4: Who is most likely to...? Winner does 20 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Vote 4"
+  },
+  {
+    "id": "party-vote-005",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 5: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 5: Who is most likely to...? Winner does 25 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 5"
+  },
+  {
+    "id": "party-vote-006",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 6: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 6: Who is most likely to...? Winner does 30 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Vote 6"
+  },
+  {
+    "id": "party-vote-007",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 7: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 7: Who is most likely to...? Winner does 35 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 7"
+  },
+  {
+    "id": "party-vote-008",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 8: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 8: Who is most likely to...? Winner does 40 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Vote 8"
+  },
+  {
+    "id": "party-vote-009",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 9: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 9: Who is most likely to...? Winner does 45 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 9"
+  },
+  {
+    "id": "party-vote-010",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 10: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 10: Who is most likely to...? Winner does 50 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Vote 10"
+  },
+  {
+    "id": "party-vote-011",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 11: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 11: Who is most likely to...? Winner does 55 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 11"
+  },
+  {
+    "id": "party-vote-012",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 12: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 12: Who is most likely to...? Winner does 60 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 12"
+  },
+  {
+    "id": "party-vote-013",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 13: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 13: Who is most likely to...? Winner does 65 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 13"
+  },
+  {
+    "id": "party-vote-014",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 14: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 14: Who is most likely to...? Winner does 70 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 14"
+  },
+  {
+    "id": "party-vote-015",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 15: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 15: Who is most likely to...? Winner does 75 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 15"
+  },
+  {
+    "id": "party-vote-016",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 16: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 16: Who is most likely to...? Winner does 80 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 16"
+  },
+  {
+    "id": "party-vote-017",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 17: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 17: Who is most likely to...? Winner does 85 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 17"
+  },
+  {
+    "id": "party-vote-018",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 18: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 18: Who is most likely to...? Winner does 90 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 18"
+  },
+  {
+    "id": "party-vote-019",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 19: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 19: Who is most likely to...? Winner does 95 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 19"
+  },
+  {
+    "id": "party-vote-020",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 20: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 20: Who is most likely to...? Winner does 100 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 20"
+  },
+  {
+    "id": "party-vote-021",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 21: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 21: Who is most likely to...? Winner does 105 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 21"
+  },
+  {
+    "id": "party-vote-022",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 22: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 22: Who is most likely to...? Winner does 110 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 22"
+  },
+  {
+    "id": "party-vote-023",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 23: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 23: Who is most likely to...? Winner does 115 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 23"
+  },
+  {
+    "id": "party-vote-024",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 24: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 24: Who is most likely to...? Winner does 120 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 24"
+  },
+  {
+    "id": "party-vote-025",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 25: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 25: Who is most likely to...? Winner does 125 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 25"
+  },
+  {
+    "id": "party-vote-026",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 26: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 26: Who is most likely to...? Winner does 130 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 26"
+  },
+  {
+    "id": "party-vote-027",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 27: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 27: Who is most likely to...? Winner does 135 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 27"
+  },
+  {
+    "id": "party-vote-028",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 28: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 28: Who is most likely to...? Winner does 140 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 28"
+  },
+  {
+    "id": "party-vote-029",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 29: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 29: Who is most likely to...? Winner does 145 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 29"
+  },
+  {
+    "id": "party-vote-030",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 30: Who is most likely to...? Winner drinks 1.",
+    "nonDrinkingText": "Vote 30: Who is most likely to...? Winner does 150 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Vote 30"
+  },
+  {
+    "id": "party-vote-031",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 31: Who is most likely to...? Winner drinks 2.",
+    "nonDrinkingText": "Vote 31: Who is most likely to...? Winner does 155 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 31"
+  },
+  {
+    "id": "party-vote-032",
+    "mode": "party",
+    "type": "vote",
+    "drinkingText": "Vote 32: Who is most likely to...? Winner drinks 3.",
+    "nonDrinkingText": "Vote 32: Who is most likely to...? Winner does 160 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Vote 32"
+  }
+]

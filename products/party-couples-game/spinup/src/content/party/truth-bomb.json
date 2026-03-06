@@ -1,0 +1,402 @@
+[
+  {
+    "id": "party-truth_bomb-001",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 1: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 1: Answer a personal question. Refuse? Do 5 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 1"
+  },
+  {
+    "id": "party-truth_bomb-002",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 2: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 2: Answer a personal question. Refuse? Do 10 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 2"
+  },
+  {
+    "id": "party-truth_bomb-003",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 3: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 3: Answer a personal question. Refuse? Do 15 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 3"
+  },
+  {
+    "id": "party-truth_bomb-004",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 4: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 4: Answer a personal question. Refuse? Do 20 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 4"
+  },
+  {
+    "id": "party-truth_bomb-005",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 5: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 5: Answer a personal question. Refuse? Do 25 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 5"
+  },
+  {
+    "id": "party-truth_bomb-006",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 6: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 6: Answer a personal question. Refuse? Do 30 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 6"
+  },
+  {
+    "id": "party-truth_bomb-007",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 7: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 7: Answer a personal question. Refuse? Do 35 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 7"
+  },
+  {
+    "id": "party-truth_bomb-008",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 8: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 8: Answer a personal question. Refuse? Do 40 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Truth 8"
+  },
+  {
+    "id": "party-truth_bomb-009",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 9: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 9: Answer a personal question. Refuse? Do 45 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 9"
+  },
+  {
+    "id": "party-truth_bomb-010",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 10: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 10: Answer a personal question. Refuse? Do 50 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 10"
+  },
+  {
+    "id": "party-truth_bomb-011",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 11: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 11: Answer a personal question. Refuse? Do 55 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 11"
+  },
+  {
+    "id": "party-truth_bomb-012",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 12: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 12: Answer a personal question. Refuse? Do 60 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 12"
+  },
+  {
+    "id": "party-truth_bomb-013",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 13: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 13: Answer a personal question. Refuse? Do 65 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 13"
+  },
+  {
+    "id": "party-truth_bomb-014",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 14: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 14: Answer a personal question. Refuse? Do 70 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 14"
+  },
+  {
+    "id": "party-truth_bomb-015",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 15: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 15: Answer a personal question. Refuse? Do 75 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 15"
+  },
+  {
+    "id": "party-truth_bomb-016",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 16: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 16: Answer a personal question. Refuse? Do 80 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 16"
+  },
+  {
+    "id": "party-truth_bomb-017",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 17: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 17: Answer a personal question. Refuse? Do 85 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 17"
+  },
+  {
+    "id": "party-truth_bomb-018",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 18: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 18: Answer a personal question. Refuse? Do 90 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 18"
+  },
+  {
+    "id": "party-truth_bomb-019",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 19: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 19: Answer a personal question. Refuse? Do 95 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 19"
+  },
+  {
+    "id": "party-truth_bomb-020",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 20: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 20: Answer a personal question. Refuse? Do 100 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 20"
+  },
+  {
+    "id": "party-truth_bomb-021",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 21: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 21: Answer a personal question. Refuse? Do 105 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 21"
+  },
+  {
+    "id": "party-truth_bomb-022",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 22: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 22: Answer a personal question. Refuse? Do 110 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 22"
+  },
+  {
+    "id": "party-truth_bomb-023",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 23: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 23: Answer a personal question. Refuse? Do 115 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 23"
+  },
+  {
+    "id": "party-truth_bomb-024",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 24: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 24: Answer a personal question. Refuse? Do 120 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 24"
+  },
+  {
+    "id": "party-truth_bomb-025",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 25: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 25: Answer a personal question. Refuse? Do 125 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 25"
+  },
+  {
+    "id": "party-truth_bomb-026",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 26: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 26: Answer a personal question. Refuse? Do 130 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 26"
+  },
+  {
+    "id": "party-truth_bomb-027",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 27: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 27: Answer a personal question. Refuse? Do 135 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Truth 27"
+  },
+  {
+    "id": "party-truth_bomb-028",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 28: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 28: Answer a personal question. Refuse? Do 140 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 28"
+  },
+  {
+    "id": "party-truth_bomb-029",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 29: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 29: Answer a personal question. Refuse? Do 145 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 29"
+  },
+  {
+    "id": "party-truth_bomb-030",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 30: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 30: Answer a personal question. Refuse? Do 150 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 30"
+  },
+  {
+    "id": "party-truth_bomb-031",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 31: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 31: Answer a personal question. Refuse? Do 155 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 31"
+  },
+  {
+    "id": "party-truth_bomb-032",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 32: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 32: Answer a personal question. Refuse? Do 160 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 32"
+  },
+  {
+    "id": "party-truth_bomb-033",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 33: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 33: Answer a personal question. Refuse? Do 165 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 33"
+  },
+  {
+    "id": "party-truth_bomb-034",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 34: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 34: Answer a personal question. Refuse? Do 170 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 34"
+  },
+  {
+    "id": "party-truth_bomb-035",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 35: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 35: Answer a personal question. Refuse? Do 175 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 35"
+  },
+  {
+    "id": "party-truth_bomb-036",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 36: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 36: Answer a personal question. Refuse? Do 180 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 36"
+  },
+  {
+    "id": "party-truth_bomb-037",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 37: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 37: Answer a personal question. Refuse? Do 185 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 37"
+  },
+  {
+    "id": "party-truth_bomb-038",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 38: Answer a personal question. Refuse? Drink 3.",
+    "nonDrinkingText": "Truth bomb 38: Answer a personal question. Refuse? Do 190 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 38"
+  },
+  {
+    "id": "party-truth_bomb-039",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 39: Answer a personal question. Refuse? Drink 1.",
+    "nonDrinkingText": "Truth bomb 39: Answer a personal question. Refuse? Do 195 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 39"
+  },
+  {
+    "id": "party-truth_bomb-040",
+    "mode": "party",
+    "type": "truth_bomb",
+    "drinkingText": "Truth bomb 40: Answer a personal question. Refuse? Drink 2.",
+    "nonDrinkingText": "Truth bomb 40: Answer a personal question. Refuse? Do 200 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Truth 40"
+  }
+]

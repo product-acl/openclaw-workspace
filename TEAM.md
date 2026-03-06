@@ -13,6 +13,7 @@ Leo (CEO)
         │     ├── Architect
         │     ├── Coder
         │     ├── Reviewer
+        │     ├── Tester
         │     └── DevOps
         └── Product Squad
               ├── Scout
@@ -20,6 +21,7 @@ Leo (CEO)
               ├── Designer
               ├── Product Marketer
               ├── Growth
+              ├── Content Designer
               └── Analyst
 ```
 
@@ -285,6 +287,46 @@ This applies to: social posts, Reddit launches, community messages, any public-f
 
 ---
 
+### Content Designer
+**Role:** Visual Content & Social Assets
+
+**Responsibilities:**
+- Transforms PMM's visual brief into production-ready assets
+- Executes Growth's channel strategy with actual creative (screenshots, social graphics, Reddit thumbnails)
+- Creates App Store screenshot sequences that tell the product story
+- Designs social post visuals optimized for each platform (Reddit, TikTok, Product Hunt)
+- Maintains brand consistency across all touchpoints
+
+**Inputs:**
+- PMM: visual-brief.md, positioning.md, app-store-listing.md
+- Growth: launch-channels.md, reddit-drafts.md, ASO strategy
+- Designer: design-system.md (colors, typography, spacing)
+
+**Outputs:**
+- App Store screenshot sequences (iOS + Android)
+- Social media visuals (Instagram/TikTok carousels, Reddit thumbnails)
+- Launch day asset pack for all channels
+- Icon variations and app store feature graphics
+
+**🔧 Tools:**
+- `openai-image-gen` skill — generate marketing visuals, app icons, screenshot backgrounds
+- `read` — consume briefs from PMM, channel plans from Growth, design system from Designer
+- `write` / `edit` — save asset manifests and production notes
+- `image` — review generated assets against brand guidelines
+- `sessions_send` — deliver assets to Growth for scheduling, to DevOps for store submission
+
+**🎨 Workflow:**
+```
+PMM (visual brief) + Growth (channel plan)
+  → Content Designer generates assets
+  → BAIcan reviews for brand consistency
+  → Leo approves key assets
+  → Growth schedules posts with finalized visuals
+  → DevOps uploads screenshots to stores
+```
+
+---
+
 ### Analyst
 **Role:** Data & Metrics
 
@@ -349,6 +391,28 @@ All agents read/write to the same repo. File structure:
       pain-points/  ← Scout output
   /memory           ← daily logs
 ```
+
+---
+
+## 🤖 Model Policy
+
+| Agent | Model | Reason |
+|-------|-------|--------|
+| BAIcan (main) | `anthropic/claude-sonnet-4-6` | Orchestration + strategic decisions |
+| Reviewer | `anthropic/claude-sonnet-4-6` | QA gate needs full model to catch real issues |
+| Architect | `deepseek/deepseek-reasoner` (R1) | System design needs deep reasoning |
+| PM | `deepseek/deepseek-reasoner` (R1) | PRD writing needs structured thinking |
+| Analyst | `deepseek/deepseek-reasoner` (R1) | Metrics analysis needs reasoning |
+| Coder | `deepseek/deepseek-chat` (V3) | Excellent at code generation |
+| Scout | `deepseek/deepseek-chat` (V3) | Fast web research |
+| Product Marketer | `deepseek/deepseek-chat` (V3) | Positioning & copy writing |
+| Growth | `deepseek/deepseek-chat` (V3) | ASO & content drafts |
+| Designer | `anthropic/claude-haiku-4-5` | Spec writing, well-scoped task |
+| Tester | `anthropic/claude-haiku-4-5` | Test plans, well-scoped task |
+| DevOps | `anthropic/claude-haiku-4-5` | CLI commands, well-scoped task |
+
+**Rule:** When spawning sub-agents via `sessions_spawn`, always match the model above.
+Sonnet upgrades outside of BAIcan/Reviewer require explicit justification.
 
 ---
 

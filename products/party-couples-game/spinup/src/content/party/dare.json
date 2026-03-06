@@ -1,0 +1,502 @@
+[
+  {
+    "id": "party-dare-001",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 1: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 1: Do something fun. Refuse? Do 5 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 1"
+  },
+  {
+    "id": "party-dare-002",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 2: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 2: Do something fun. Refuse? Do 10 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 2"
+  },
+  {
+    "id": "party-dare-003",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 3: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 3: Do something fun. Refuse? Do 15 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 3"
+  },
+  {
+    "id": "party-dare-004",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 4: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 4: Do something fun. Refuse? Do 20 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 4"
+  },
+  {
+    "id": "party-dare-005",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 5: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 5: Do something fun. Refuse? Do 25 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 5"
+  },
+  {
+    "id": "party-dare-006",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 6: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 6: Do something fun. Refuse? Do 30 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 6"
+  },
+  {
+    "id": "party-dare-007",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 7: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 7: Do something fun. Refuse? Do 35 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 7"
+  },
+  {
+    "id": "party-dare-008",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 8: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 8: Do something fun. Refuse? Do 40 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 8"
+  },
+  {
+    "id": "party-dare-009",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 9: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 9: Do something fun. Refuse? Do 45 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 9"
+  },
+  {
+    "id": "party-dare-010",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 10: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 10: Do something fun. Refuse? Do 50 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Dare 10"
+  },
+  {
+    "id": "party-dare-011",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 11: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 11: Do something fun. Refuse? Do 55 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 11"
+  },
+  {
+    "id": "party-dare-012",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 12: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 12: Do something fun. Refuse? Do 60 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 12"
+  },
+  {
+    "id": "party-dare-013",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 13: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 13: Do something fun. Refuse? Do 65 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 13"
+  },
+  {
+    "id": "party-dare-014",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 14: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 14: Do something fun. Refuse? Do 70 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 14"
+  },
+  {
+    "id": "party-dare-015",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 15: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 15: Do something fun. Refuse? Do 75 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 15"
+  },
+  {
+    "id": "party-dare-016",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 16: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 16: Do something fun. Refuse? Do 80 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 16"
+  },
+  {
+    "id": "party-dare-017",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 17: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 17: Do something fun. Refuse? Do 85 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 17"
+  },
+  {
+    "id": "party-dare-018",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 18: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 18: Do something fun. Refuse? Do 90 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 18"
+  },
+  {
+    "id": "party-dare-019",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 19: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 19: Do something fun. Refuse? Do 95 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 19"
+  },
+  {
+    "id": "party-dare-020",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 20: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 20: Do something fun. Refuse? Do 100 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 20"
+  },
+  {
+    "id": "party-dare-021",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 21: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 21: Do something fun. Refuse? Do 105 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 21"
+  },
+  {
+    "id": "party-dare-022",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 22: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 22: Do something fun. Refuse? Do 110 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 22"
+  },
+  {
+    "id": "party-dare-023",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 23: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 23: Do something fun. Refuse? Do 115 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 23"
+  },
+  {
+    "id": "party-dare-024",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 24: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 24: Do something fun. Refuse? Do 120 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 24"
+  },
+  {
+    "id": "party-dare-025",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 25: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 25: Do something fun. Refuse? Do 125 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 25"
+  },
+  {
+    "id": "party-dare-026",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 26: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 26: Do something fun. Refuse? Do 130 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 26"
+  },
+  {
+    "id": "party-dare-027",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 27: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 27: Do something fun. Refuse? Do 135 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 27"
+  },
+  {
+    "id": "party-dare-028",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 28: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 28: Do something fun. Refuse? Do 140 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 28"
+  },
+  {
+    "id": "party-dare-029",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 29: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 29: Do something fun. Refuse? Do 145 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 29"
+  },
+  {
+    "id": "party-dare-030",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 30: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 30: Do something fun. Refuse? Do 150 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Dare 30"
+  },
+  {
+    "id": "party-dare-031",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 31: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 31: Do something fun. Refuse? Do 155 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 31"
+  },
+  {
+    "id": "party-dare-032",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 32: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 32: Do something fun. Refuse? Do 160 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 32"
+  },
+  {
+    "id": "party-dare-033",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 33: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 33: Do something fun. Refuse? Do 165 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 33"
+  },
+  {
+    "id": "party-dare-034",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 34: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 34: Do something fun. Refuse? Do 170 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 34"
+  },
+  {
+    "id": "party-dare-035",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 35: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 35: Do something fun. Refuse? Do 175 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 35"
+  },
+  {
+    "id": "party-dare-036",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 36: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 36: Do something fun. Refuse? Do 180 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 36"
+  },
+  {
+    "id": "party-dare-037",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 37: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 37: Do something fun. Refuse? Do 185 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 37"
+  },
+  {
+    "id": "party-dare-038",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 38: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 38: Do something fun. Refuse? Do 190 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 38"
+  },
+  {
+    "id": "party-dare-039",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 39: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 39: Do something fun. Refuse? Do 195 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 39"
+  },
+  {
+    "id": "party-dare-040",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 40: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 40: Do something fun. Refuse? Do 200 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 40"
+  },
+  {
+    "id": "party-dare-041",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 41: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 41: Do something fun. Refuse? Do 205 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 41"
+  },
+  {
+    "id": "party-dare-042",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 42: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 42: Do something fun. Refuse? Do 210 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 42"
+  },
+  {
+    "id": "party-dare-043",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 43: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 43: Do something fun. Refuse? Do 215 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 43"
+  },
+  {
+    "id": "party-dare-044",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 44: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 44: Do something fun. Refuse? Do 220 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 44"
+  },
+  {
+    "id": "party-dare-045",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 45: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 45: Do something fun. Refuse? Do 225 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 45"
+  },
+  {
+    "id": "party-dare-046",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 46: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 46: Do something fun. Refuse? Do 230 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 46"
+  },
+  {
+    "id": "party-dare-047",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 47: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 47: Do something fun. Refuse? Do 235 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 47"
+  },
+  {
+    "id": "party-dare-048",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 48: Do something fun. Refuse? Drink 1.",
+    "nonDrinkingText": "Dare 48: Do something fun. Refuse? Do 240 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 48"
+  },
+  {
+    "id": "party-dare-049",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 49: Do something fun. Refuse? Drink 2.",
+    "nonDrinkingText": "Dare 49: Do something fun. Refuse? Do 245 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 49"
+  },
+  {
+    "id": "party-dare-050",
+    "mode": "party",
+    "type": "dare",
+    "drinkingText": "Dare 50: Do something fun. Refuse? Drink 3.",
+    "nonDrinkingText": "Dare 50: Do something fun. Refuse? Do 250 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Dare 50"
+  }
+]

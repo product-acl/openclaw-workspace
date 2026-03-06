@@ -1,0 +1,152 @@
+[
+  {
+    "id": "party-wild-001",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 1: Do something unexpected! Refuse? Drink 3.",
+    "nonDrinkingText": "Wild card 1: Do something unexpected! Refuse? Do 6 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 1"
+  },
+  {
+    "id": "party-wild-002",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 2: Do something unexpected! Refuse? Drink 4.",
+    "nonDrinkingText": "Wild card 2: Do something unexpected! Refuse? Do 12 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 2"
+  },
+  {
+    "id": "party-wild-003",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 3: Do something unexpected! Refuse? Drink 2.",
+    "nonDrinkingText": "Wild card 3: Do something unexpected! Refuse? Do 18 burpees.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Wild 3"
+  },
+  {
+    "id": "party-wild-004",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 4: Do something unexpected! Refuse? Drink 3.",
+    "nonDrinkingText": "Wild card 4: Do something unexpected! Refuse? Do 24 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 4"
+  },
+  {
+    "id": "party-wild-005",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 5: Do something unexpected! Refuse? Drink 4.",
+    "nonDrinkingText": "Wild card 5: Do something unexpected! Refuse? Do 30 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 5"
+  },
+  {
+    "id": "party-wild-006",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 6: Do something unexpected! Refuse? Drink 2.",
+    "nonDrinkingText": "Wild card 6: Do something unexpected! Refuse? Do 36 burpees.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Wild 6"
+  },
+  {
+    "id": "party-wild-007",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 7: Do something unexpected! Refuse? Drink 3.",
+    "nonDrinkingText": "Wild card 7: Do something unexpected! Refuse? Do 42 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 7"
+  },
+  {
+    "id": "party-wild-008",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 8: Do something unexpected! Refuse? Drink 4.",
+    "nonDrinkingText": "Wild card 8: Do something unexpected! Refuse? Do 48 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 8"
+  },
+  {
+    "id": "party-wild-009",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 9: Do something unexpected! Refuse? Drink 2.",
+    "nonDrinkingText": "Wild card 9: Do something unexpected! Refuse? Do 54 burpees.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Wild 9"
+  },
+  {
+    "id": "party-wild-010",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 10: Do something unexpected! Refuse? Drink 3.",
+    "nonDrinkingText": "Wild card 10: Do something unexpected! Refuse? Do 60 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 10"
+  },
+  {
+    "id": "party-wild-011",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 11: Do something unexpected! Refuse? Drink 4.",
+    "nonDrinkingText": "Wild card 11: Do something unexpected! Refuse? Do 66 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 11"
+  },
+  {
+    "id": "party-wild-012",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 12: Do something unexpected! Refuse? Drink 2.",
+    "nonDrinkingText": "Wild card 12: Do something unexpected! Refuse? Do 72 burpees.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Wild 12"
+  },
+  {
+    "id": "party-wild-013",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 13: Do something unexpected! Refuse? Drink 3.",
+    "nonDrinkingText": "Wild card 13: Do something unexpected! Refuse? Do 78 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 13"
+  },
+  {
+    "id": "party-wild-014",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 14: Do something unexpected! Refuse? Drink 4.",
+    "nonDrinkingText": "Wild card 14: Do something unexpected! Refuse? Do 84 burpees.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Wild 14"
+  },
+  {
+    "id": "party-wild-015",
+    "mode": "party",
+    "type": "wild",
+    "drinkingText": "Wild card 15: Do something unexpected! Refuse? Drink 2.",
+    "nonDrinkingText": "Wild card 15: Do something unexpected! Refuse? Do 90 burpees.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Wild 15"
+  }
+]

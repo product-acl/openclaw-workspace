@@ -1,0 +1,282 @@
+[
+  {
+    "id": "party-cr-001",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 1: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 1: [Player] vs [Random Player]. Loser does 5 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 1"
+  },
+  {
+    "id": "party-cr-002",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 2: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 2: [Player] vs [Random Player]. Loser does 10 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Challenge 2"
+  },
+  {
+    "id": "party-cr-003",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 3: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 3: [Player] vs [Random Player]. Loser does 15 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 3"
+  },
+  {
+    "id": "party-cr-004",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 4: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 4: [Player] vs [Random Player]. Loser does 20 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Challenge 4"
+  },
+  {
+    "id": "party-cr-005",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 5: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 5: [Player] vs [Random Player]. Loser does 25 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 5"
+  },
+  {
+    "id": "party-cr-006",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 6: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 6: [Player] vs [Random Player]. Loser does 30 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Challenge 6"
+  },
+  {
+    "id": "party-cr-007",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 7: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 7: [Player] vs [Random Player]. Loser does 35 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 7"
+  },
+  {
+    "id": "party-cr-008",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 8: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 8: [Player] vs [Random Player]. Loser does 40 jumping jacks.",
+    "isLocked": false,
+    "intensityLevel": 1,
+    "shortLabel": "Challenge 8"
+  },
+  {
+    "id": "party-cr-009",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 9: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 9: [Player] vs [Random Player]. Loser does 45 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 9"
+  },
+  {
+    "id": "party-cr-010",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 10: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 10: [Player] vs [Random Player]. Loser does 50 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 10"
+  },
+  {
+    "id": "party-cr-011",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 11: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 11: [Player] vs [Random Player]. Loser does 55 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 11"
+  },
+  {
+    "id": "party-cr-012",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 12: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 12: [Player] vs [Random Player]. Loser does 60 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 12"
+  },
+  {
+    "id": "party-cr-013",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 13: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 13: [Player] vs [Random Player]. Loser does 65 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 13"
+  },
+  {
+    "id": "party-cr-014",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 14: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 14: [Player] vs [Random Player]. Loser does 70 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 14"
+  },
+  {
+    "id": "party-cr-015",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 15: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 15: [Player] vs [Random Player]. Loser does 75 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 15"
+  },
+  {
+    "id": "party-cr-016",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 16: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 16: [Player] vs [Random Player]. Loser does 80 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 16"
+  },
+  {
+    "id": "party-cr-017",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 17: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 17: [Player] vs [Random Player]. Loser does 85 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 17"
+  },
+  {
+    "id": "party-cr-018",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 18: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 18: [Player] vs [Random Player]. Loser does 90 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 18"
+  },
+  {
+    "id": "party-cr-019",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 19: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 19: [Player] vs [Random Player]. Loser does 95 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 19"
+  },
+  {
+    "id": "party-cr-020",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 20: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 20: [Player] vs [Random Player]. Loser does 100 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 20"
+  },
+  {
+    "id": "party-cr-021",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 21: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 21: [Player] vs [Random Player]. Loser does 105 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 21"
+  },
+  {
+    "id": "party-cr-022",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 22: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 22: [Player] vs [Random Player]. Loser does 110 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 22"
+  },
+  {
+    "id": "party-cr-023",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 23: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 23: [Player] vs [Random Player]. Loser does 115 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 23"
+  },
+  {
+    "id": "party-cr-024",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 24: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 24: [Player] vs [Random Player]. Loser does 120 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 24"
+  },
+  {
+    "id": "party-cr-025",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 25: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 25: [Player] vs [Random Player]. Loser does 125 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 25"
+  },
+  {
+    "id": "party-cr-026",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 26: [Player] vs [Random Player]. Loser drinks 3.",
+    "nonDrinkingText": "Challenge 26: [Player] vs [Random Player]. Loser does 130 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 26"
+  },
+  {
+    "id": "party-cr-027",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 27: [Player] vs [Random Player]. Loser drinks 1.",
+    "nonDrinkingText": "Challenge 27: [Player] vs [Random Player]. Loser does 135 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 2,
+    "shortLabel": "Challenge 27"
+  },
+  {
+    "id": "party-cr-028",
+    "mode": "party",
+    "type": "challenge_roulette",
+    "drinkingText": "Challenge 28: [Player] vs [Random Player]. Loser drinks 2.",
+    "nonDrinkingText": "Challenge 28: [Player] vs [Random Player]. Loser does 140 jumping jacks.",
+    "isLocked": true,
+    "intensityLevel": 3,
+    "shortLabel": "Challenge 28"
+  }
+]
