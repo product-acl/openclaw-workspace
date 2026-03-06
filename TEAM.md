@@ -117,18 +117,51 @@ Leo (CEO)
 
 **Responsibilities:**
 - Manages build pipelines, environment configs, secrets
-- Handles App Store / Play Store submissions
+- Handles App Store / Play Store submissions via EAS CLI
 - Monitors deployment health
 - Maintains CI/CD setup
+- Documents credential locations in `TOOLS.md` (not the secrets themselves)
 
-**Outputs:** Deploy configs, build scripts, infra docs
+**Outputs:** Deploy configs, build scripts, infra docs, deployment runbooks
 
 **🔧 Tools:**
-- `exec` — run deploys, builds, shell scripts
+- `exec` — run deploys, builds, shell scripts, EAS CLI commands
 - `process` — manage background build/deploy processes
 - `read` / `write` / `edit` — manage config and infra files
 - `web_fetch` — check deployment endpoints, health URLs
 - `nodes` — interact with paired devices/servers if needed
+
+**🚀 Store Deployment Pipeline (Expo/EAS)**
+
+```
+Reviewer signs off on PR
+  → BAIcan approves build
+  → DevOps: eas build --platform all   (EAS cloud builds binaries)
+  → DevOps: eas submit --platform all  (submits to App Store + Play Store)
+  → BAIcan notifies Leo: "Submitted vX.X — review pending"
+  → Leo gets pinged when live
+```
+
+| Step | Automated? | Notes |
+|---|---|---|
+| EAS build | ✅ | CLI command, runs in cloud |
+| Submit to Play Store | ✅ | Service account key handles auth |
+| Submit to App Store | ⚠️ | Needs Apple ID 2FA on first setup |
+| App Store review | ❌ | Apple humans — out of our control |
+| Release notes / metadata | ✅ | DevOps or Growth writes them |
+| Price / availability changes | ⚠️ | Requires store console access |
+
+**One-time setup (Leo does this once):**
+1. `eas login` — link Apple/Google accounts to EAS
+2. Store Play Store service account JSON key (enables fully automated Android)
+3. Configure `eas.json` with build profiles (dev / staging / production)
+
+After setup, DevOps runs builds and submissions autonomously. Leo only gets notified, never has to touch the stores manually.
+
+**Approval gate:**
+- Nothing ships without BAIcan sign-off
+- External actions (message, posts) require Leo approval before firing
+- Store submissions trigger a Leo notification — he stays informed, not involved
 
 ---
 
@@ -232,10 +265,23 @@ Leo (CEO)
 - `web_search` — keyword research, trend spotting, community discovery
 - `web_fetch` — read competitor App Store listings, marketing copy
 - `browser` — browse App Store, Product Hunt, Reddit communities
-- `message` — post to Discord, Telegram, or other configured channels
+- `message` — post to Discord, Telegram, or other configured channels ⚠️ see below
 - `read` — consume positioning doc and launch brief
 - `write` / `edit` — draft and save all copy assets
 - `sessions_send` — report channel performance to Analyst and BAIcan
+
+**⚠️ External Actions Policy**
+
+`message` posts to real channels with real audiences — it's public and irreversible. Growth must **draft first, never auto-publish:**
+
+```
+Growth drafts copy → saves to file
+  → BAIcan reviews
+  → Leo approves
+  → Growth uses message to post
+```
+
+This applies to: social posts, Reddit launches, community messages, any public-facing content.
 
 ---
 
