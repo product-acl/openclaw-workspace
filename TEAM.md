@@ -38,6 +38,15 @@ Leo (CEO)
 
 **Outputs:** Task briefs, reviews, summaries, strategic recommendations
 
+**🔧 Tools:**
+- `sessions_spawn` — spin up sub-agents (Claude Code, Codex)
+- `sessions_send` — message running agents
+- `subagents` — list, steer, kill agents
+- `memory_search` / `memory_get` — recall prior decisions
+- `read` / `write` / `edit` — manage workspace files
+- `web_search` — spot-check research or validate decisions
+- `exec` — run commands, scripts, git operations
+
 ---
 
 ## 🛠️ Engineering Squad
@@ -53,6 +62,12 @@ Leo (CEO)
 
 **Outputs:** Technical spec docs, architecture diagrams (text), task breakdowns
 
+**🔧 Tools:**
+- `read` / `write` / `edit` — read PRDs, write tech specs
+- `exec` — explore repo structure, run analysis scripts
+- `web_search` / `web_fetch` — research libraries, patterns, prior art
+- `sessions_send` — communicate task breakdowns to Coder
+
 ---
 
 ### Coder
@@ -65,7 +80,15 @@ Leo (CEO)
 - Flags blockers to Architect or BAIcan immediately
 
 **Stack:** React Native / Expo, Node.js, whatever the project needs
+
 **Outputs:** Working code, PRs, implementation notes
+
+**🔧 Tools:**
+- `sessions_spawn` (runtime: `acp`) — Claude Code / Codex for actual coding
+- `read` / `write` / `edit` — file operations
+- `exec` — run builds, tests, linters, install packages
+- `process` — manage long-running build/test sessions
+- `web_search` / `web_fetch` — look up docs, Stack Overflow, package APIs
 
 ---
 
@@ -80,6 +103,13 @@ Leo (CEO)
 
 **Outputs:** Review comments, approval/rejection, bug reports
 
+**🔧 Tools:**
+- `read` — read code, PRD, Designer specs
+- `exec` — run tests, linters, static analysis
+- `image` — analyze screenshots against Designer specs
+- `edit` — inline comments or patch files
+- `sessions_send` — report findings to BAIcan or Coder
+
 ---
 
 ### DevOps
@@ -92,6 +122,13 @@ Leo (CEO)
 - Maintains CI/CD setup
 
 **Outputs:** Deploy configs, build scripts, infra docs
+
+**🔧 Tools:**
+- `exec` — run deploys, builds, shell scripts
+- `process` — manage background build/deploy processes
+- `read` / `write` / `edit` — manage config and infra files
+- `web_fetch` — check deployment endpoints, health URLs
+- `nodes` — interact with paired devices/servers if needed
 
 ---
 
@@ -108,6 +145,13 @@ Leo (CEO)
 
 **Outputs:** Pain point reports, opportunity briefs, raw signal summaries
 
+**🔧 Tools:**
+- `web_search` — search Reddit, X, forums, App Store reviews
+- `web_fetch` — deep-read threads, posts, review pages
+- `browser` — scrape pages that require JS rendering (Reddit, Product Hunt, etc.)
+- `write` — save findings to `/research/pain-points/`
+- `sessions_send` — report to BAIcan when a strong signal is found
+
 ---
 
 ### PM — Product Manager
@@ -120,6 +164,12 @@ Leo (CEO)
 - Bridges Product Squad and Engineering Squad
 
 **Outputs:** PRDs, user stories, feature specs, backlog
+
+**🔧 Tools:**
+- `read` — consume Scout reports, positioning docs, design specs
+- `write` / `edit` — author and update PRDs, backlogs
+- `web_search` — validate assumptions, check competitor features
+- `sessions_send` — send PRDs to Designer and Architect
 
 ---
 
@@ -135,6 +185,13 @@ Leo (CEO)
 
 **Outputs:** User flows, screen specs, design system doc, UX review notes
 
+**🔧 Tools:**
+- `read` / `write` / `edit` — create and maintain design docs
+- `image` — analyze screenshots/mockups against spec
+- `web_search` / `web_fetch` — reference UI patterns, competitors' UX, design systems
+- `browser` — inspect live apps or competitor UIs
+- `sessions_send` — send specs to Coder, review notes to Reviewer
+
 ---
 
 ### Product Marketer
@@ -148,6 +205,14 @@ Leo (CEO)
 - Writes launch brief for Growth to execute against
 
 **Outputs:** Positioning doc, messaging hierarchy, competitor teardown, launch brief
+
+**🔧 Tools:**
+- `web_search` — competitor research, ICP validation, market sizing
+- `web_fetch` — deep-read competitor landing pages, App Store listings, reviews
+- `browser` — inspect competitor apps, pricing pages, onboarding flows
+- `read` — consume Scout reports, PRDs
+- `write` / `edit` — author positioning and messaging docs
+- `sessions_send` — deliver launch brief to Growth
 
 ---
 
@@ -163,6 +228,15 @@ Leo (CEO)
 
 **Outputs:** App Store copy, social posts, launch plan, channel reports
 
+**🔧 Tools:**
+- `web_search` — keyword research, trend spotting, community discovery
+- `web_fetch` — read competitor App Store listings, marketing copy
+- `browser` — browse App Store, Product Hunt, Reddit communities
+- `message` — post to Discord, Telegram, or other configured channels
+- `read` — consume positioning doc and launch brief
+- `write` / `edit` — draft and save all copy assets
+- `sessions_send` — report channel performance to Analyst and BAIcan
+
 ---
 
 ### Analyst
@@ -175,6 +249,13 @@ Leo (CEO)
 - Feeds insights back to PM and Product Marketer for iteration
 
 **Outputs:** KPI dashboards (markdown), weekly signal reports, insight briefs
+
+**🔧 Tools:**
+- `web_fetch` — pull data from analytics endpoints, dashboards, APIs
+- `exec` — run data scripts, parse CSVs, compute metrics
+- `read` / `write` — read raw data files, write reports
+- `web_search` — benchmark against industry averages
+- `sessions_send` — send weekly snapshot to BAIcan
 
 ---
 
