@@ -1,0 +1,16 @@
+
+> automatiza-lat@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.13
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 18.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 58.7s (477 modules)
+ ✓ Compiled in 2.5s (236 modules)
+ GET / 200 in 61570ms
+ GET / 200 in 645ms
+ HEAD / 200 in 52ms
+[?25h

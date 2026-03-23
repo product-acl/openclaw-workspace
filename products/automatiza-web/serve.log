@@ -1,0 +1,36 @@
+ INFO  Accepting connections at http://localhost:3001
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 200 in 160 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/chunks/main-app-2f8e58363680eec9.js
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/chunks/23-f84061ea0c1aa34c.js
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/media/e4af272ccee01ff0-s.p.woff2
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/chunks/webpack-a8e8730335fdd13a.js
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 200 in 70 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/chunks/fd9d1056-2821b0f0cabcd8bd.js
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 GET /_next/static/css/966c260035d0ebb0.css
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 304 in 72 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 304 in 15 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 304 in 14 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  3/23/2026 1:18:19 AM 127.0.0.1 Returned 304 in 73 ms
+ HTTP  3/23/2026 1:18:20 AM 127.0.0.1 GET /favicon.ico
+ HTTP  3/23/2026 1:18:20 AM 127.0.0.1 Returned 404 in 5 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/media/e4af272ccee01ff0-s.p.woff2
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/chunks/fd9d1056-2821b0f0cabcd8bd.js
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/css/966c260035d0ebb0.css
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/chunks/main-app-2f8e58363680eec9.js
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 304 in 3 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/chunks/webpack-a8e8730335fdd13a.js
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /_next/static/chunks/23-f84061ea0c1aa34c.js
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 GET /favicon.ico
+ HTTP  3/23/2026 1:18:40 AM 127.0.0.1 Returned 404 in 2 ms
+ HTTP  3/23/2026 1:18:41 AM 127.0.0.1 GET /favicon.ico
+ HTTP  3/23/2026 1:18:41 AM 127.0.0.1 Returned 404 in 2 ms
+Killed
